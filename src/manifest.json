@@ -2,8 +2,8 @@
     "name" : "充电提醒",
     "appid" : "__UNI__E9B0204",
     "description" : "手机充电提醒",
-    "versionName" : "1.0.2",
-    "versionCode" : 101,
+    "versionName" : "1.0.3",
+    "versionCode" : 103,
     "transformPx" : false,
     /* 5+App特有相关 */
     "app-plus" : {
